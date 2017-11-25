@@ -15,7 +15,8 @@
 
 # include <stdlib.h>
 # include <libft.h>
+# include <stdio.h>
 
-# define BUFFER_SIZE 540
+# define BUFFER_SIZE 546
 
 #endif
